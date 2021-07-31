@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Corona App</string>
+    <string name="country">Country</string>
+    <string name="change_time_range">Change Time Range</string>
+    <string name="get_by_country">Get By Country</string>
+    <string name="get_by_my_country">Get By my country</string>
+    <string name="infected_near_by_person">Check infected near by Person</string>
+    <string-array name="array_technology">
+        <item>Israel</item>
+        <item>Japan</item>
+        <item>India</item>
+    </string-array>
+</resources>
+
